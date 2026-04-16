@@ -1,0 +1,21 @@
+{
+  "provider": "qiniu",
+  "qiniu": {
+    "access_key": "your-access-key",
+    "secret_key": "your-secret-key",
+    "bucket": "your-bucket",
+    "domain": "your-domain.com"
+  },
+  "aliyun": {
+    "access_key": "",
+    "secret_key": "",
+    "bucket": "",
+    "endpoint": ""
+  },
+  "tencent": {
+    "secret_id": "",
+    "secret_key": "",
+    "bucket": "",
+    "region": ""
+  }
+}

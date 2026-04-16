@@ -1,0 +1,16 @@
+{
+  "api_url": "https://your-image-api.com/api/v1/images/generations",
+  "api_key": "your-api-key-here",
+  "model": "Nano-Banana-2",
+  "default_size": "3168x1344",
+  "output_type": "url",
+  "output_format": "jpeg",
+  "number_results": 1,
+  "available_sizes": {
+    "square": "1024x1024",
+    "wechat_cover": "1200x896",
+    "wechat_post": "1024x1024",
+    "wide": "1264x848",
+    "ultra_wide": "2048x512"
+  }
+}
