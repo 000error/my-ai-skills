@@ -1,0 +1,21 @@
+{
+  "provider": "qiniu",
+  "qiniu": {
+    "access_key": "J0XGm81aAN2AbFpLnt3Sxf_BX30qkUxkSD6PnnnD",
+    "secret_key": "gF_Ac36Aq__u_S8xbaWeDDRkSOyeobM3teghlPNH",
+    "bucket": "wechat0508",
+    "domain": "teq2niat1.hn-bkt.clouddn.com"
+  },
+  "aliyun": {
+    "access_key": "",
+    "secret_key": "",
+    "bucket": "",
+    "endpoint": ""
+  },
+  "tencent": {
+    "secret_id": "",
+    "secret_key": "",
+    "bucket": "",
+    "region": ""
+  }
+}
