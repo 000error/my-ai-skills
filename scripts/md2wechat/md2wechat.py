@@ -85,7 +85,7 @@ def convert_markdown_to_wechat(md_text, style_file='styles/default.json'):
 
     # Wrap in container with base styles
     base_font = '-apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif'
-    container_style = f'font-family: {base_font}; font-size: 15px; color: rgb(63, 63, 63); line-height: 1.75; letter-spacing: 2px;'
+    container_style = f'font-family: {base_font}; font-size: 16px; color: rgb(63, 63, 63); line-height: 1.75; letter-spacing: 2px;'
 
     return f'<div style="{container_style}">\n{styled_html}\n</div>'
 
